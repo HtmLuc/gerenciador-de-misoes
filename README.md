@@ -1,7 +1,10 @@
 # Projeto de voos espaciais
 
 ## Resumo
-O objetivo do projeto é desenvolver um sistema de gerenciamento de missões espaciais. Esse sistema permitirá o cadastro de astronautas e voos, bem como a gestão das missões.
+O objetivo do projeto é desenvolver um sistema de gestão de missões espaciais. Esse sistema permitirá o cadastro de astronautas e voos, bem como a gestão das missões.
+
+## Como executar o programa
+(em desenvolvimento)
 
 ## Funcionalidades do sistema
 Cadastrar Astronauta:
@@ -29,5 +32,4 @@ Contatar um foguete:
     <li>Retornará se o foguete explodiu ou não.</li>
 </ul>
 
-## Como execultar o programa
-(em fase de desenvolvimento)
+## Estrutura do projeto
